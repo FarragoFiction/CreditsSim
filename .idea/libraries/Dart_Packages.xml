@@ -5,7 +5,7 @@
         <entry key="CreditsLib">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/git/CreditsLib-31a5a71ea355dd833fe9426ceba33528ea16111f/lib" />
+              <option value="$USER_HOME$/.pub-cache/git/CreditsLib-307c3fcd75421c10989d4f0c5828db5a19407c72/lib" />
             </list>
           </value>
         </entry>
@@ -236,7 +236,7 @@
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/.pub-cache/git/CreditsLib-31a5a71ea355dd833fe9426ceba33528ea16111f/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/git/CreditsLib-307c3fcd75421c10989d4f0c5828db5a19407c72/lib" />
       <root url="file://$USER_HOME$/.pub-cache/git/DollLibCorrect-83245f861bc326bc09a44dcdd1121e8bd14fb3f0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/git/RenderingLib-85b746283d57adb05cc07a9e1080c7ff4c5db8e7/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/archive-1.0.33/lib" />

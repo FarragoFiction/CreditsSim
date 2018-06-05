@@ -10,7 +10,7 @@ Element content = querySelector("#content");
 
 Future<Null> main() async {
   await Loader.preloadManifest();
-  CreditsObject co = new CreditsObject("SomethingMemorable","");
+  CreditsObject co = new CreditsObject("SomethingMemorable","ASAEAAD4__________8HAAD4__________8HAAD4__8HAAD4__8HAAD4__8HAAD4______8HGBoCAADAAAAAAAAYGgI=");
   co.makeForm(content);
 
 }
