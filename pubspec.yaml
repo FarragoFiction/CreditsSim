@@ -16,9 +16,9 @@ dev_dependencies:
   CreditsLib:
         git:  git://github.com/FarragoFiction/CharacterLib.git
   RenderingLib:
-        git: git://github.com/jadedResearcher/RenderingLib.git
+        git: git://github.com/FarragoFiction/RenderingLib.git
   DollLibCorrect:
-        git:  git://github.com/jadedResearcher/DollLibCorrect.git
+        git:  git://github.com/FarragoFiction/DollLibCorrect.git
 
 transformers:
 - dart_to_js_script_rewriter
