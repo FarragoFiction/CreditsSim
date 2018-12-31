@@ -3,6 +3,7 @@ import "dart:html";
 import 'navbar.dart';
 import "package:CreditsLib/CharacterLib.dart";
 import 'package:CreditsLib/src/CharacterObject.dart';
+import 'package:DollLibCorrect/src/Dolls/Doll.dart';
 import 'package:RenderingLib/RendereringLib.dart';
 Element content = querySelector("#content");
 
@@ -10,7 +11,7 @@ String targetWords =  getParameterByName("target",null);
 
 Future<Null> main() async{
   heartfeltThanks();
-  await Loader.preloadManifest();
+  await Doll.loadFileData();
   List<CreditsObject> credits = await CreditsObject.slurpAllCredits();
   if(targetWords != null) {
       //i am the best at var names, it is me

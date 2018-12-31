@@ -5,7 +5,7 @@ import 'dart:typed_data';
 
 import "package:archive/archive.dart";
 
-String relPath = "example/";
+String relPath = "web/";
 RegExp slash = new RegExp("[\\/]");
 
 void main() {
